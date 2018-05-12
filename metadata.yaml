@@ -1,0 +1,28 @@
+_repo: Valkeat-kaupungit_20118
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Koskenniemi, Veikko Antero
+    alias: Koskenniemi, V. A. (Veikko Antero)
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '9084'
+    url: http://www.gutenberg.org/2009/agents/9084
+    wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+description: ''
+gutenberg_issued: '2006-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20118'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PH'
+title: Valkeat kaupungit
+url: http://www.gutenberg.org/ebooks/20118
